@@ -1,0 +1,52 @@
+body{
+  background-color:hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center;
+justify-content: center;
+min-height: 100vh;
+}
+
+.card{
+  width: 290px;
+  background-color: white;
+  padding: 12px;
+  border-radius: 10px;
+  box-shadow:1px 1px 15px 1px hsl(218, 44%, 22%);
+}
+
+.Image-QR{
+  display: block;
+  align-items: center;
+  justify-content: center;
+width: 290px;
+border-radius: 10px;
+}
+
+p{
+  text-align: center;
+}
+
+.desc-card{
+  margin-right: auto;
+  margin-left:auto ;
+  width: 230px;
+}
+
+.desc{
+  font-size: 15px;
+  font-family: Outfit;
+ font-weight: 400; 
+ color:hsl(220, 15%, 55%);
+}
+
+.head-card{
+  margin-right: auto;
+  margin-left:auto ;
+  width: 230px;
+}
+ 
+.head{
+  font-size: 20px;
+  font-family:Outfit;
+  font-weight: 700;
+}
